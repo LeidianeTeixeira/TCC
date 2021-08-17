@@ -2,4 +2,4 @@
 
 Neste repositório estão disponibilizados os arquivos originados do meu Trabalho de Conclusão de Curso.
 * Notebook com a implementação: https://bit.ly/3eWdIkH
-* Base de dados: https://bit.ly/3iPEgFq 
+* Base de dados: Trabalhando na autorização para divulgação
